@@ -1,6 +1,6 @@
 # Camunda
 
-## [一、Camunda基础](http://172.18.3.103/aneid/docs/tree/master/03_技术准备/支撑服务/工作流/docs/camunda/CamundaBasic.md)
+## [一、Camunda基础](CamundaBasic.md)
 
 * 1.基本介绍
 * 2.Camunda BPM平台架构

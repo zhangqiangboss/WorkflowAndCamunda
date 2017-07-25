@@ -10,9 +10,9 @@ Camunda Modeler是Eclipse的开源BPMN 2.0建模插件，专注于流程和协�
 
 ## 二、Camunda Modeler 下载和安装
 
-官网社区下载：http://camunda.org/download
+1.官网社区下载：http://camunda.org/download
 
-一般有两种安装方式可供选择：
+2.插件：一般有两种安装方式可供选择（官网已废弃，但仍可使用）
 
 * 直接在Eclipse插件界面搜素并安装
 * 下载官网Camunda Modeler插件包拖入Eclipse的Dropins文件夹，重启即可。

@@ -1,13 +1,13 @@
 # 工作流&Camunda技术预研
 
-## [工作流（WorkFlow）](http://172.18.3.103/aneid/docs/tree/master/03_技术准备/支撑服务/工作流/docs/workflow/workflow.md)
+## [工作流（WorkFlow）](docs/workflow/workflow.md)
   * 什么是WorkFlow？
   * 工作流管理系统wfms？
   * 工作流管理联盟wfmc？
   * 为什么要使用工作流？
   * 怎么使用工作流？
 
-## [业务流程管理标注（BPMN2.0）](http://172.18.3.103/aneid/docs/tree/master/03_技术准备/支撑服务/工作流/docs/bpmn/bpmn2_0.md)
+## [业务流程管理标注（BPMN2.0）](docs/bpmn/bpmn2_0.md)
   * 什么是BPM？
   * 什么是BPMN？
   * BPMN2.0
@@ -24,7 +24,7 @@
     + 一个具体的例子
     + BPMN2.0术语
     
-## [Camunda](http://172.18.3.103/aneid/docs/tree/master/03_技术准备/支撑服务/工作流/docs/camunda/README.md)
+## [Camunda](docs/camunda/README.md)
 * 1.Camunda基础
 * 2.Camunda Process Engine 流程引擎
 * 3.Camunda Modeler 建模工具
@@ -35,15 +35,15 @@
 * 8.测试
 * 9.数据格式(XML、JSON其他)
 
-### [流程应用程序](http://172.18.3.103/aneid/docs/tree/master/03_技术准备/支撑服务/工作流/docs/camunda/ProcessApplication.md)
+### [流程应用程序](docs/camunda/ProcessApplication.md)
 
-### [运行容器集成](http://172.18.3.103/aneid/docs/tree/master/03_技术准备/支撑服务/工作流/docs/camunda/RuntimeContainerIntegration.md)
+### [运行容器集成](docs/camunda/RuntimeContainerIntegration.md)
 
-### [Spring框架集成](http://172.18.3.103/aneid/docs/tree/master/03_技术准备/支撑服务/工作流/docs/camunda/SpringFrameworkIntegration.md)
+### [Spring框架集](docs/camunda/SpringFrameworkIntegration.md)
 
-### [Camunda Cockpit 驾驶舱](http://172.18.3.103/aneid/docs/tree/master/03_技术准备/支撑服务/工作流/docs/camunda/CamundaCockpit.md)
+### [Camunda Cockpit 驾驶舱](docs/camunda/CamundaCockpit.md)
 
-### [Camunda 工作流服务使用](http://172.18.3.103/aneid/docs/tree/master/03_技术准备/支撑服务/工作流/docs/camunda/CamundaUse.md)
+### [Camunda 工作流服务使用](docs/camunda/CamundaUse.md)
 
 * 准备软件环境
     + 软件环境介绍
